@@ -12,4 +12,4 @@ Discover how new and returning customers shop online. Using statistics and proba
 - A new campaign for the returning customers will boost the purchase rate by 15%. What is the likelihood of achieving at least 100 sales out of 500 online shopping sessions for the returning customers?
 
 
-Machine learning was not used in this project.
+This project was done in October, 2025. Machine learning was not used in this project.
